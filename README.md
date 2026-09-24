@@ -14,7 +14,7 @@ Here on GitHub, I share project implementations, experiments, and Jupyter notebo
 
 ## Academic Background
 
-- **M.Sc. in Mathematics (Gold medalist)** - Central University of Jammu
+- **M.Sc. in Mathematics (Gold Medalist)** - Central University of Jammu
 - **B.Tech. in Mechanical Engineering** - NIT Jalandhar
 
 
