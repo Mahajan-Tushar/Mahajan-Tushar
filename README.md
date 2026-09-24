@@ -50,7 +50,7 @@ I share my work here to document what I build, learn from others, and connect wi
 ## Let's Connect
 
 - 📧 Email: tushar.m.work@gmail.com
-- 💼 LinkedIn: linkedin.com/in/tushar-mahajan76
+- 💼 LinkedIn: [linkedin.com/in/tushar-mahajan76](https://www.linkedin.com/in/tushar-mahajan76/)
 
 ---
 
